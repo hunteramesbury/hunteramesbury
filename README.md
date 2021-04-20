@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hunteramesbury
+- 👀 I’m interested in Machine learning, Data analytics, Blockchain and CyberSecurity
+- 🌱 I’m currently learning Cybersecurity through Udemy
+- 💞️ I’m looking to collaborate on Blockchain projects
+- 📫 You can reach me through Linkedin www.linkedin.com/in/hunteramesbury
